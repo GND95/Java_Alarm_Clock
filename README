@@ -1,0 +1,3 @@
+DIRECTIONS: Works like a typical digital alarm clock would. 
+You use the two text fields under "Alarm" to enter the hour and the minute values and whether or not it isset to a PM or AM time using the radio buttons and then click the "SET" button to set the alarm to sound at that specific time. 
+As you would expect, the "UNSET" button disables the alarm from sounding at that time.
